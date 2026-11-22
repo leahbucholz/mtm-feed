@@ -6,6 +6,16 @@
   <description>Weekly long-form videos from the Prestige medical team (Shorts excluded).</description>
   <language>en-us</language>
   <item>
+    <title>Finding Your Team Again: Jiu-Jitsu for Veterans</title>
+    <link>https://www.youtube.com/watch?v=bjXOQhVMgNw</link>
+    <guid isPermaLink="false">yt:bjXOQhVMgNw</guid>
+    <pubDate>Sun, 22 Nov 2026 03:42:41 +0000</pubDate>
+    <description><![CDATA[<img src="https://i.ytimg.com/vi/bjXOQhVMgNw/maxresdefault.jpg" alt="Finding Your Team Again: Jiu-Jitsu for Veterans" />]]></description>
+    <enclosure url="https://i.ytimg.com/vi/bjXOQhVMgNw/maxresdefault.jpg" type="image/jpeg" length="0" />
+    <media:content url="https://i.ytimg.com/vi/bjXOQhVMgNw/maxresdefault.jpg" medium="image" type="image/jpeg" />
+    <media:thumbnail url="https://i.ytimg.com/vi/bjXOQhVMgNw/maxresdefault.jpg" />
+  </item>
+  <item>
     <title>Why VA Migraine Claims Get Denied (And What Evidence Is Missing)</title>
     <link>https://www.youtube.com/watch?v=V7KONMndwnw</link>
     <guid isPermaLink="false">yt:V7KONMndwnw</guid>
@@ -94,16 +104,6 @@
     <enclosure url="https://i.ytimg.com/vi/HdR9A7RPP28/maxresdefault.jpg" type="image/jpeg" length="0" />
     <media:content url="https://i.ytimg.com/vi/HdR9A7RPP28/maxresdefault.jpg" medium="image" type="image/jpeg" />
     <media:thumbnail url="https://i.ytimg.com/vi/HdR9A7RPP28/maxresdefault.jpg" />
-  </item>
-  <item>
-    <title>Your VA Records May Still Be Missing the Key Evidence</title>
-    <link>https://www.youtube.com/watch?v=S6IT024vjE4</link>
-    <guid isPermaLink="false">yt:S6IT024vjE4</guid>
-    <pubDate>Mon, 14 Sep 2026 17:00:06 +0000</pubDate>
-    <description><![CDATA[<img src="https://i.ytimg.com/vi/S6IT024vjE4/maxresdefault.jpg" alt="Your VA Records May Still Be Missing the Key Evidence" />]]></description>
-    <enclosure url="https://i.ytimg.com/vi/S6IT024vjE4/maxresdefault.jpg" type="image/jpeg" length="0" />
-    <media:content url="https://i.ytimg.com/vi/S6IT024vjE4/maxresdefault.jpg" medium="image" type="image/jpeg" />
-    <media:thumbnail url="https://i.ytimg.com/vi/S6IT024vjE4/maxresdefault.jpg" />
   </item>
 </channel>
 </rss>
